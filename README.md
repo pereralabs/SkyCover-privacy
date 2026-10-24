@@ -1,1 +1,1 @@
-# cloudcoverseeker-privacy
+# Sky Cover-privacy
