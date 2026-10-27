@@ -64,5 +64,5 @@ We may update our Privacy Policy periodically to reflect changes in our practice
 If you have any questions or suggestions regarding this Privacy Policy, please reach out to us:
 
 * **Developer:** Perera Labs  
-* **Email:** support@pereralabs.com
+* **Email:** dev@pereralabs.com
 * **Repository / Web:** https://github.com/pereralabs/SkyCover-privacy
